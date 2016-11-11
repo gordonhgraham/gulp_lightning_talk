@@ -1,3 +1,7 @@
+#What is gulp?
+- A simple, platform agnostic, toolkit with a strong ecosystem (over 2000 modules) that helps with automation. Examples of tasks...Minify & compile code
+
+
 Install `gulp` globally so you can run it from the terminal:
 
 ```sh
