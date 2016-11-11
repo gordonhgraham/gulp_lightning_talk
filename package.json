@@ -1,0 +1,12 @@
+{
+  "name": "lightning_talks",
+  "version": "1.0.0",
+  "description": "Install `gulp` globally so you can run it from the terminal:",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
